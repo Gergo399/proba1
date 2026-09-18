@@ -1,1 +1,5 @@
-# proba1
+#Kovacsgergo
+##Az első projektem
+###használt eszközök
+-css
+-html
